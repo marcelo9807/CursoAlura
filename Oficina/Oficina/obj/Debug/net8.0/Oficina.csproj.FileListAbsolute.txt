@@ -1,0 +1,14 @@
+C:\Users\Marcelo\source\repos\Oficina\Oficina\obj\Debug\net8.0\Oficina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\source\repos\Oficina\Oficina\obj\Debug\net8.0\Oficina.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\Oficina\Oficina\obj\Debug\net8.0\Oficina.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\Oficina\Oficina\obj\Debug\net8.0\Oficina.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\Oficina\Oficina\bin\Debug\net8.0\Oficina.exe
+C:\Users\Marcelo\source\repos\Oficina\Oficina\bin\Debug\net8.0\Oficina.deps.json
+C:\Users\Marcelo\source\repos\Oficina\Oficina\bin\Debug\net8.0\Oficina.runtimeconfig.json
+C:\Users\Marcelo\source\repos\Oficina\Oficina\bin\Debug\net8.0\Oficina.dll
+C:\Users\Marcelo\source\repos\Oficina\Oficina\bin\Debug\net8.0\Oficina.pdb
+C:\Users\Marcelo\source\repos\Oficina\Oficina\obj\Debug\net8.0\Oficina.dll
+C:\Users\Marcelo\source\repos\Oficina\Oficina\obj\Debug\net8.0\refint\Oficina.dll
+C:\Users\Marcelo\source\repos\Oficina\Oficina\obj\Debug\net8.0\Oficina.pdb
+C:\Users\Marcelo\source\repos\Oficina\Oficina\obj\Debug\net8.0\Oficina.genruntimeconfig.cache
+C:\Users\Marcelo\source\repos\Oficina\Oficina\obj\Debug\net8.0\ref\Oficina.dll
